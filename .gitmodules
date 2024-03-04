@@ -1,0 +1,3 @@
+[submodule "PaddleUtils"]
+	path = PaddleUtils
+	url = https://github.com/jiangjiajun/PaddleUtils.git
